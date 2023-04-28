@@ -183,3 +183,5 @@ WARN: install-plugins.sh has been removed, please switch to jenkins-plugin-cli
 ```
 
 менял образы jenkins добавлял настройки, про отсутствие которых были сообщения в логах они касались настройки CasC плагина в jenkins-instance-pavan.yaml
+
+test
